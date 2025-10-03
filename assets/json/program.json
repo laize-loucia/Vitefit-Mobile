@@ -1,0 +1,88 @@
+{
+    "schedule": [
+        {
+            "name": "Cyclisme",
+            "day": "Lundi",
+            "time": "9h - 10h",
+            "description": "Cours de cyclisme en salle intense pour améliorer l'endurance cardiovasculaire et brûler des calories.",
+            "instructor": "Sophie L.",
+            "image": "cycling.webp"
+        },
+        {
+            "name": "Entraînement corporel",
+            "day": "Mercredi",
+            "time": "18h30 - 19h30",
+            "description": "Entraînement complet du corps combinant exercices de force et cardio pour sculpter et tonifier votre physique.",
+            "instructor": "Marc D.",
+            "image": "body_training.webp"
+        },
+        {
+            "name": "Zumba",
+            "day": "Vendredi",
+            "time": "12h30 - 13h30",
+            "description": "Cours de fitness dansant à haute énergie avec des rythmes latins pour brûler des calories tout en s'amusant.",
+            "instructor": "Elena R.",
+            "image": "zumba.webp"
+        },
+        {
+            "name": "Yoga",
+            "day": "Mardi",
+            "time": "17h - 18h",
+            "description": "Cours de yoga relaxant axé sur la flexibilité, l'équilibre et la pleine conscience.",
+            "instructor": "Anna K.",
+            "image": "yoga.webp"
+        },
+        {
+            "name": "Pilate",
+            "day": "Jeudi",
+            "time": "19h - 20h",
+            "description": "Cours de renforcement du noyau qui améliore l'équilibre et la conscience corporelle globale par des mouvements contrôlés.",
+            "instructor": "Liam T.",
+            "image": "pilate.webp"
+        },
+        {
+            "name": "HIIT",
+            "day": "Samedi",
+            "time": "10h - 11h",
+            "description": "Entraînement rapide alternant entre des périodes d'activité intense et des périodes d'activité moins intense.",
+            "instructor": "Rachel S.",
+            "image": "hiit.webp"
+        },
+        {
+            "name": "Kickboxing",
+            "day": "Dimanche",
+            "time": "16h - 17h",
+            "description": "Entraînement dynamique alliant techniques d'arts martiaux et cardio pour un brûlage complet du corps.",
+            "instructor": "James P.",
+            "image": "kickboxing.webp"
+        },
+        {
+            "name": "Barre",
+            "day": "Mardi",
+            "time": "18h30 - 19h30",
+            "description": "Entraînement à faible impact mélangant des éléments de ballet, Pilates et yoga pour renforcer et assouplir.",
+            "instructor": "Mia W.",
+            "image": "barre.webp"
+        },
+        {
+            "name": "Spinning",
+            "day": "Jeudi",
+            "time": "8h - 9h",
+            "description": "Cours de cyclisme énergique sur une musique motivante, axé sur l'endurance et le renforcement musculaire.",
+            "instructor": "Oliver H.",
+            "image": "spinning.webp"
+        },
+        {
+            "name": "Fitness fonctionnel",
+            "day": "Vendredi",
+            "time": "17h30 - 18h30",
+            "description": "Cours conçus pour améliorer les mouvements qui imitent les activités quotidiennes, axés sur la force et la stabilité.",
+            "instructor": "Emma L.",
+            "image": "functional_fitness.webp"
+        }
+    ],
+    "general_info": {
+        "frequency": "3 cours par semaine",
+        "period": "Janvier à Avril 2024"
+    }
+}

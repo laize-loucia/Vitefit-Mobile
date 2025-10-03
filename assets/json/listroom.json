@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Salle de cycling",
+    "address": "Salle 22, 2ème étage",
+    "opening_hours": "Lundi : 9h-10h, Samedi: 10h-18h",
+    "image": "cycling_room.webp"
+  },
+  {
+    "name": "Studio zumba fit",
+    "address": "Salle 23, 2ème étage",
+    "opening_hours": "Mardi: 17h-18h, Samedi: 10h-18h",
+    "image": "zumba_room.webp"
+  },
+  {
+    "name": "Espace yoga zen",
+    "address": "Salle 24, 2ème étage",
+    "opening_hours": "Mardi: 17h-18h",
+    "image": "yoga_room.webp"
+  },
+  {
+    "name": "Pilate harmony",
+    "address": "Salle 25, 2ème étage",
+    "opening_hours": "Jeudi: 19h-20h Samedi - Dimanche: fermé",
+    "image": "pilate_room.webp"
+  },
+  {
+    "name": "Classic fit",
+    "address": "Salle 26, 2ème étage",
+    "opening_hours": "Lundi-Vendredi: 6h-22h, Samedi: 10h-18h",
+    "image": "spinning_room.webp"
+  },
+  {
+    "name": "Sweating zone",
+    "address": "Salle 27, 2eme étage",
+    "opening_hours": "Lundi-Vendredi: 7h-21h, Samedi: 10h-18h",
+    "image": "functional_fitness_room.webp"
+  }
+]

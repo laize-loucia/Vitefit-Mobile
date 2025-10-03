@@ -1,0 +1,62 @@
+name: RenduCoursFrontEndAvance
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  mailer: ^6.0.1
+  flutter_map: ^6.0.0
+  latlong2: ^0.9.0
+  url_launcher: ^6.1.14
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+  build_runner: ^2.4.9
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/json/program.json
+    - assets/json/listroom.json
+    - assets/images/cycling_room.webp
+    - assets/images/functional_fitness_room.webp
+    - assets/images/yoga_room.webp
+    - assets/images/pilate_room.webp
+    - assets/images/spinning_room.webp
+    - assets/images/zumba_room.webp
+    - assets/images/mycustomlogo.png
+    - assets/images/header_background.webp
+    - assets/images/homepage_background.webp
+    - assets/images/cycling.webp
+    - assets/images/body_training.webp
+    - assets/images/zumba.webp
+    - assets/images/yoga.webp
+    - assets/images/pilates.webp
+    - assets/images/hiit.webp
+    - assets/images/kickboxing.webp
+    - assets/images/barre.webp
+    - assets/images/spinning.webp
+    - assets/images/functional_fitness.webp
+
+  #To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-VariableFont_wdth,wght.ttf
+    - family: PlaywriteIndia
+      fonts:
+        - asset: assets/fonts/Playwrite-india.ttf
